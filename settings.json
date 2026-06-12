@@ -6,9 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "SMP123R.aternos.me
+",
+    "port": 62671,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -53,20 +54,20 @@
       "interval": 5000
     },
     "random-jump": {
-      "enabled": true,
+      "enabled": false,
       "interval": 10000
     }
   },
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
   "combat": {
     "attack-mobs": true,
-    "auto-eat": true
+    "auto-eat": false
   },
   "beds": {
     "pick-up-day": false,
